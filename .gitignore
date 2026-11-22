@@ -1,0 +1,8 @@
+_d2_grade_source.txt
+__pycache__/
+*.pyc
+*.pyo
+result.txt
+*.log
+.idea/
+.vscode/
