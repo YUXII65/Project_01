@@ -6,3 +6,5 @@ result.txt
 *.log
 .idea/
 .vscode/
+
+.venv/
